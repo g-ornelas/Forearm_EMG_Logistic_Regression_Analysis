@@ -57,6 +57,7 @@ def plot_2_comparisons(time, data1_og, data1_new, data2_og, data2_new, title1, t
     axs[1].plot(time, data2_new, label='after')
     axs[1].set_ylabel('Amplitude ($\mu V$)', fontsize=14)
     axs[1].set_xlabel('Time (s)', fontsize = 14)
+    axs[1].set_title(title2, fontsize=14)
     axs[1].legend(loc="upper right")
     
 
