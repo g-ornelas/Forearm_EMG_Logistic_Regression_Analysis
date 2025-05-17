@@ -65,7 +65,7 @@ $$\begin{eqnarray}
 g(p_t) &=& x_0 + x_1 N_1(t) + x_2 N_2(t)
 \end{eqnarray}$$
 
-Where both $g(p_t)$ and $x_0 + x_1 N_1(t) + x_2 N_2(t)$ are any real number. After some derivation (which will be added in the future), we come to this logistic regression model representation of the data: 
+Where both $g(p_t)$ and $x_0 + x_1 N_1(t) + x_2 N_2(t)$ are any real number. After some derivation (will be added when time permits), we come to this logistic regression model representation of the data: 
 
 $$\begin{eqnarray}
 p(t) &=& \frac{\exp\left(x_0 + x_1 N_1(t) + x_2 N_2(t) \right)}{1+\exp\left(x_0 + x_1 N_1(t) + x_2 N_2(t) \right)}
