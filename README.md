@@ -1,5 +1,7 @@
 # Forearm Pulse Analysis
 
+<img src="Experiment_Hypothesis.png" width=800 height=300 />
+
 ### Objective: 
 Filter and process the data, transforming it into binary to build a logistic regression model that predicts the activity of the needle at the Digitorum Communis (nDC) from the surface electrodes. Repeat for the needle at the Digiti Quinti (nDQ). 
 
@@ -15,8 +17,6 @@ Filter and process the data, transforming it into binary to build a logistic reg
 * Skin prep was done with alcohol wipes and Nuprep exfoliating gel. Electrode locations were marked with a Surgical Marker.
 * Tasks involved sharp isolated finger extensions, slow isolated finger extensions, fast (half-time) isolated finger tapping, and hand extension/flexion contractions.
 * Experiment was done by Gladys Ornelas with help from Research Assistants Xiaoyi Ma, Ruby Rios Ramirez, and Hassler Bueno Garcia.
-
-<img src="Experiment_Hypothesis.png" width=800 height=300 />
 
 ### Rationale Behind Logistic Regression: 
 
