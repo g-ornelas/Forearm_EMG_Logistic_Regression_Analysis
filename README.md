@@ -75,6 +75,6 @@ p(t) &=& \frac{\exp\left(x_0 + x_1 N_1(t) + x_2 N_2(t) \right)}{1+\exp\left(x_0 
 
 ### Results: 
 
-The results partially support the original hypothesis for both needle electrodes. In regards to the needle at the Digitorum Communis (nDC), it was originally hypothesized that Chs 1, 5, and 6 would be the best predictors. The results show 1, 5, and 2. For the Digiti Quinti muscle (nDQ), it was originally hypothesized that Chs 3 and 4 would be the best predictors. Results show that it was 4, 5, and then 3. 
+The results partially support the original hypothesis for both needle electrodes. In regards to the needle at the Digitorum Communis (nDC), it was originally hypothesized that Chs 1, 5, and 6 would be the best predictors. The results show 1, 5, and 2. For the Digiti Quinti muscle (nDQ), it was originally hypothesized that Chs 3 and 4 would be the best predictors. Results show that it was 4, and 5. 
 
 <img src="Feature_Importance_EnergyMap.png" width=800 height=300 />
