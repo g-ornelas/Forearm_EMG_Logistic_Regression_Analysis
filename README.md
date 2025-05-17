@@ -1,4 +1,4 @@
-# Forearm Pulse Analysis
+# Logistic Regression Analysis of Concurrent Invasive and Non-Invasive EMG of the Forearm
 
 <img src="Experiment_Hypothesis.png" width=800 height=300 />
 
